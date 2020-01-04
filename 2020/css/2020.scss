@@ -1,0 +1,22 @@
+.Header{
+    background: black;
+    padding-top: 25px;
+    .left{
+        font-size: 12px;
+        color: red;
+
+    }
+    .right{
+        i{
+            color: white;
+            font-size: 20px;
+        }
+    }
+}
+
+.element{
+    text-align: center;
+    padding: 30px 0;
+    display: none;
+    background: yellow;
+}
